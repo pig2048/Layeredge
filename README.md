@@ -16,7 +16,7 @@
 
 ```
 git clone https://github.com/pig2048/Layeredge.git
-cd LayerEdge-Bot
+cd LayerEdge
 ```
 
 #### 创建虚拟环境
