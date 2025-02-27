@@ -1,0 +1,140 @@
+2025-02-27 15:39:21,537 - ERROR - Error starting node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: 500, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://referralapi.layeredge.io/api/light-node/node-status/0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE'
+2025-02-27 15:39:22,403 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 15:54:22,847 - INFO - Node started for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 15:54:23,434 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 15:56:01,449 - INFO - Node started for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 15:56:01,940 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 15:56:10,193 - INFO - Node started for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 15:56:10,694 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 15:56:24,965 - INFO - Node started for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 15:56:25,521 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:05:44,114 - INFO - Node started for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:05:44,901 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:06:35,680 - INFO - Node started for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:06:36,248 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:08:28,377 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:08:28,385 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:08:30,129 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740585683, 'nodeRank': 'N/A'}}
+2025-02-27 16:08:30,133 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:08:30,975 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:08:31,580 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:08:31,580 - INFO - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, will retry in 3 hours
+2025-02-27 16:09:31,046 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:09:31,048 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:09:32,704 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740585683, 'nodeRank': 'N/A'}}
+2025-02-27 16:09:32,709 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:09:33,213 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:09:33,728 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:09:33,728 - INFO - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, will retry in 3 hours
+2025-02-27 16:09:54,442 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:09:54,445 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:09:56,559 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740585683, 'nodeRank': 'N/A'}}
+2025-02-27 16:09:56,563 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:09:58,062 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:09:58,702 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:09:58,702 - INFO - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, will retry in 3 hours
+2025-02-27 16:12:37,276 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:12:37,278 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:12:38,881 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740585683, 'nodeRank': 'N/A'}}
+2025-02-27 16:12:38,882 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:12:38,884 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:12:39,374 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 500, 'message': 'internal server error'}
+2025-02-27 16:12:39,374 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 5 seconds before restart
+2025-02-27 16:12:44,380 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:12:44,923 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:12:44,924 - INFO - Got 405 error, trying to stop node again for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:12:44,926 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:12:45,417 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 500, 'message': 'internal server error'}
+2025-02-27 16:12:45,418 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 5 seconds before restart
+2025-02-27 16:12:50,917 - INFO - Retry start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 405, 'message': 'can not start multiple light node'}
+2025-02-27 16:12:51,407 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:12:51,407 - INFO - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, will retry in 3 hours
+2025-02-27 16:23:27,613 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:23:27,615 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:23:29,442 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740644225, 'nodeRank': 'N/A'}}
+2025-02-27 16:23:29,443 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:23:29,445 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:23:30,750 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 500, 'message': 'internal server error'}
+2025-02-27 16:23:30,750 - ERROR - Failed to stop node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:23:30,751 - ERROR - Failed to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 60 seconds before retry
+2025-02-27 16:24:30,768 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:24:30,771 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:24:32,600 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740644225, 'nodeRank': 'N/A'}}
+2025-02-27 16:24:32,601 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:24:32,603 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:24:33,619 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 500, 'message': 'internal server error'}
+2025-02-27 16:24:33,619 - ERROR - Failed to stop node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:24:33,620 - ERROR - Failed to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 60 seconds before retry
+2025-02-27 16:25:33,630 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:25:33,635 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:25:35,506 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740644225, 'nodeRank': 'N/A'}}
+2025-02-27 16:25:35,506 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:25:35,510 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:25:36,529 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 500, 'message': 'internal server error'}
+2025-02-27 16:25:36,530 - ERROR - Failed to stop node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:25:36,530 - ERROR - Failed to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 60 seconds before retry
+2025-02-27 16:26:36,544 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:26:36,547 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:26:38,421 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740644225, 'nodeRank': 'N/A'}}
+2025-02-27 16:26:38,422 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:26:38,424 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:26:39,459 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'statusCode': 500, 'message': 'internal server error'}
+2025-02-27 16:26:39,460 - ERROR - Failed to stop node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:26:39,460 - ERROR - Failed to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 60 seconds before retry
+2025-02-27 16:27:39,461 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:27:39,465 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:32:47,416 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:32:47,418 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:32:49,479 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740644225, 'nodeRank': 'N/A'}}
+2025-02-27 16:32:49,479 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:32:49,481 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:32:50,603 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node action executed successfully', 'data': {'startTimestamp': None}}
+2025-02-27 16:32:50,603 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:32:50,603 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 5 seconds before restart
+2025-02-27 16:32:56,125 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': None, 'nodeRank': 'N/A'}}
+2025-02-27 16:32:56,125 - ERROR - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is still running after stop attempt
+2025-02-27 16:32:56,126 - ERROR - Failed to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 60 seconds before retry
+2025-02-27 16:33:56,125 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:33:56,127 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:35:54,954 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:35:54,956 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:35:56,754 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': None, 'nodeRank': 'N/A'}}
+2025-02-27 16:35:56,758 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:35:57,482 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node action executed successfully', 'data': {'startTimestamp': 1740645381}}
+2025-02-27 16:35:57,482 - INFO - Successfully started node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:35:58,100 - WARNING - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, status: 500
+2025-02-27 16:35:58,100 - INFO - Failed to claim points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, will retry in 3 hours
+2025-02-27 16:39:24,521 - INFO - Starting monitoring cycle for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:24,524 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:26,624 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740645381, 'nodeRank': 'N/A'}}
+2025-02-27 16:39:26,624 - INFO - Node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE is already running, attempting to stop first
+2025-02-27 16:39:26,627 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:28,367 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node action executed successfully', 'data': {'startTimestamp': None}}
+2025-02-27 16:39:28,367 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:28,367 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, waiting 5 seconds before restart
+2025-02-27 16:39:34,213 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': None, 'nodeRank': 'N/A'}}
+2025-02-27 16:39:34,217 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:35,525 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node action executed successfully', 'data': {'startTimestamp': 1740645599}}
+2025-02-27 16:39:35,525 - INFO - Successfully started node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:36,167 - INFO - Check in is already done for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:39:36,167 - INFO - Successfully claimed points for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE, will try again in 12 hours
+2025-02-27 16:48:09,142 - ERROR - Error getting wallet details: Cannot connect to host referralapi.layeredge.io:443 ssl:default [None]
+2025-02-27 16:48:09,142 - INFO - [INFO] [0x2E92...39FE] [Points: Unknown] Scheduled node restart
+2025-02-27 16:48:09,145 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:48:14,167 - ERROR - Error stopping node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: Cannot connect to host referralapi.layeredge.io:443 ssl:default [None]
+2025-02-27 16:48:19,177 - ERROR - [ERROR] [0x2E92...39FE] [Points: Unknown] Error: Cannot connect to host referralapi.layeredge.io:443 ssl:default [None]
+2025-02-27 16:49:50,997 - INFO - [INFO] [0x2E92...39FE] [Points: 154433] Current points: 154433
+2025-02-27 16:49:50,998 - INFO - [INFO] [0x2E92...39FE] [Points: 154433] Scheduled node restart
+2025-02-27 16:49:51,000 - INFO - Attempting to stop node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:49:52,607 - INFO - Stop node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node action executed successfully', 'data': {'startTimestamp': None}}
+2025-02-27 16:49:52,607 - INFO - Successfully stopped node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:49:52,607 - INFO - [INFO] [0x2E92...39FE] [Points: 154433] Node stopped for scheduled restart
+2025-02-27 16:49:57,624 - INFO - Checking node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:49:58,127 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': None, 'nodeRank': 'N/A'}}
+2025-02-27 16:49:58,130 - INFO - Attempting to start node for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:49:58,617 - INFO - Start node response for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node action executed successfully', 'data': {'startTimestamp': 1740646223}}
+2025-02-27 16:49:58,617 - INFO - Successfully started node 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:49:58,617 - INFO - [INFO] [0x2E92...39FE] [Points: 154433] Node restarted successfully
+2025-02-27 16:49:59,106 - INFO - Node status for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE: {'message': 'node status', 'data': {'startTimestamp': 1740646223, 'nodeRank': 'N/A'}}
+2025-02-27 16:49:59,589 - INFO - Check in is already done for 0x2E92c0Cd2716FD664C3A927711557993F9Fc39FE
+2025-02-27 16:49:59,590 - INFO - [INFO] [0x2E92...39FE] [Points: 154433] Daily check-in successful
