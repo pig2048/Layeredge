@@ -9,6 +9,8 @@
 🌐 支持代理功能
 📊 随机UA头
 
+#### 更新：支持并发注册默认5个一次注册
+
 ### 安装步骤
 
 #### 克隆仓库
@@ -36,7 +38,12 @@ pip install -r requirements.txt
 #### 配置机器人
 
 在accounts.txt中添加你的钱包私钥，每行一个
+在register.txt中添加你要注册的钱包私钥，每行一个
 在proxy.txt中添加你的代理，每行一个（格式：http://ip:port）
+
+效果展示
+![图片](https://github.com/user-attachments/assets/7eb6406a-576e-4b11-b525-053032dd5276)
+
 
 #### 启动机器人
 
