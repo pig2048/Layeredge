@@ -697,7 +697,7 @@ class LayerEdgeBot:
         console.print("[cyan]开始处理注册...[/cyan]")
         
         
-        batch_size = self.config['max_concurrent_tasks']
+        batch_size = self.config.get('max_concurrent_tasks', 5)
         for i in range(0, len(accounts), batch_size):
             batch = accounts[i:i + batch_size]
             tasks = []
