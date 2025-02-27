@@ -15,7 +15,7 @@
 
 
 ```
-git clone https://github.com/pig2048/LayerEdge-Bot.git
+git clone https://github.com/pig2048/Layeredge.git
 cd LayerEdge-Bot
 ```
 
