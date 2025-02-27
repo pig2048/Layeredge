@@ -488,7 +488,7 @@ class LayerEdgeBot:
 
     async def process_accounts_in_batches(self, all_tasks):
         
-        batch_size = self.config['max_concurrent_tasks']
+        batch_size = self.config.get('max_concurrent_tasks', 5)
         results = []
         
         for i in range(0, len(all_tasks), batch_size):
